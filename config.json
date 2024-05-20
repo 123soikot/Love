@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
+    "100072320790038",
     ""
   ],
   "whiteListMode": {
@@ -28,9 +28,9 @@
   "OWNER": "Cliff Vincent",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "nickNameBot": "Ex 卝 বয়ফ্রেন্ডヅ",
+  "FACEBOOK": "https://www.facebook.com/mdsakhoyat.hosen.9",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
