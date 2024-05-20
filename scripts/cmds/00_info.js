@@ -15,12 +15,12 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const botName = "yazky";
-		const botPrefix = "!";
-		const authorName = "CliffVincent";
+		const botName = "Ex 卝 বয়ফ্রেন্ডヅ";
+		const botPrefix = ".";
+		const authorName = "Ex 卝 বয়ফ্রেন্ডヅ";
 		const ownAge = "18";
 		const teamName = "Github team";
-		const authorFB = "https://www.facebook.com/swordigo.swordslush";
+		const authorFB = "https://www.facebook.com/mdsakhoyat.hosen.9";
 		const authorInsta = "Thead469";
 		const tikTok = "tiktok.com/@Cliffthegreat0";
 		const urls = JSON.parse(fs.readFileSync('cliff.json'));
@@ -37,14 +37,14 @@ module.exports = {
 
 		message.reply({
 			body: `《  Bot & Owner Info 》
-\Name: ${botName}
-\Bot Prefix: ${botPrefix}
-\owner: ${authorName}
-\age : ${ownAge}
-\Facebook: ${authorFB}
-\Instagram: ${authorInsta}
+Name: {botName}
+Bot Prefix: {.}
+owner: {soikot }
+age : {18+}
+Facebook: {https://www.facebook.com/mdsakhoyat.hosen.9}
+\Instagram: {SOIKoT1}
 \TikTok: ${tikTok}
-\Datee: ${date}
+\Datee: ${}
 \Time: ${time}
 \Team: ${teamName}
 \Uptime: ${uptimeString}
